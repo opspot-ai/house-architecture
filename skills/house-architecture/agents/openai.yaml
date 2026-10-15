@@ -1,0 +1,6 @@
+interface:
+  display_name: "House Architecture"
+  short_description: "Capability owners, shared specialists, and integration"
+  default_prompt: "Use $house-architecture to map a system around independent capabilities, clear shared ownership, and a verified integration path."
+policy:
+  allow_implicit_invocation: true
